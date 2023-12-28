@@ -47,7 +47,3 @@ To do
 - Full duplex support for SDLC lines
 
 EF & HJS (C)2023
-Editing IBM3705_R3/README.md at main · snhstq/IBM3705_R3
- 
-# IBM3705_R3
-IBM 3705 Front End Processor emulator with multiple lines support
